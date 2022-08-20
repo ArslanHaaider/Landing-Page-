@@ -123,3 +123,29 @@
     /* border: 1px solid orange; */
     border-radius: 10px;
 }
+
+
+
+/* Third page style starts here */
+
+.third-page{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 200px  ;
+}
+.third-page h1{
+    font-size: 2rem;
+    font-family: 'Rubik Iso', cursive;
+
+}
+.third-page p{
+    width: 50%;
+    line-height: 50px;
+    font-size: 25px;
+    font-family: 'Silkscreen', cursive;
+
+}
